@@ -61,5 +61,10 @@ header h1 {
 .preparation {
     background-color: hsl(330, 100%, 98%);
     border-radius: 20px;
-    padding: 10px;
+    padding: 5px;
+}
+
+.preparation h4 {
+    font-size: 20px;
+    color: hsl(332, 51%, 32%);
 }
