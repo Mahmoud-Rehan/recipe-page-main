@@ -33,6 +33,7 @@ body {
 
 .container {
     width: 400px;
+    height: 80vh;
     background-color: hsl(0, 0%, 100%);
 }
 
