@@ -121,6 +121,7 @@ header h1 {
 }
 
 hr {
+    border: none;
     height: 0.5px;
     width: 100%;
     background-color: hsl(30, 54%, 90%);
