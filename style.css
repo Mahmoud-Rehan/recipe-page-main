@@ -110,3 +110,8 @@ header h1 {
 .ingred-list li {
     margin-bottom: 10px;
 }
+
+
+.ingred-list li::before {
+    content: ".";
+}
