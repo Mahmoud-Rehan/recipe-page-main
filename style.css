@@ -124,4 +124,5 @@ br {
     display: block;
     height: 2px;
     width: 100%;
+    color: hsl(30, 10%, 34%);
 }
