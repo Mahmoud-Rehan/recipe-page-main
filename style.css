@@ -75,3 +75,8 @@ header h1 {
     padding-left: 0;
     margin-top: 10px;
 }
+
+.prep-list li::before {
+    content: ".";
+    font-weight: bold;
+}
