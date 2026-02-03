@@ -121,7 +121,6 @@ header h1 {
 }
 
 hr {
-    display: inline-block;
     height: 0.5px;
     width: 100%;
     color: hsl(30, 18%, 87%);
