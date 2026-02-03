@@ -45,6 +45,11 @@ img {
     border-radius: 10px;
 }
 
-header {
+.header {
     margin: 20px 0;
+}
+
+.header h1 {
+    margin-bottom: 20px;
+    font-family: "Young Serif", sans-serif;
 }
