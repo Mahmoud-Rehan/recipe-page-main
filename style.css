@@ -79,5 +79,5 @@ header h1 {
 .prep-list li::before {
     content: ".";
     font-weight: bold;
-    width: 10px;
+    width: 1.5rem;
 }
