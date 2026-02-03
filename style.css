@@ -100,3 +100,9 @@ header h1 {
     color: hsl(14, 45%, 36%);
     margin-bottom: 20px;
 }
+
+
+.ingred-list {
+    list-style: none;
+    padding-left: 0;   
+}
