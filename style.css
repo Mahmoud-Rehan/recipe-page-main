@@ -114,4 +114,7 @@ header h1 {
 
 .ingred-list li::before {
     content: ".";
+    display: inline-block;
+    font-weight: bold;
+    width: 1.5rem;
 }
