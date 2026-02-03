@@ -121,6 +121,7 @@ header h1 {
 }
 
 br {
+    display: block;
     height: 2px;
     width: 100%;
 }
