@@ -119,3 +119,7 @@ header h1 {
     width: 1.5rem;
     margin-right: 10px;
 }
+
+br {
+    height: 2px;
+}
