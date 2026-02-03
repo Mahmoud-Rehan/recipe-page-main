@@ -68,3 +68,7 @@ header h1 {
     font-size: 20px;
     color: hsl(332, 51%, 32%);
 }
+
+ul {
+    display: block;
+}
