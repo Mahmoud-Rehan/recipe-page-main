@@ -95,5 +95,8 @@ header h1 {
 
 .ingredients h2 {
     font-family: "Young Serif", sans-serif;
+    font-weight: 300;
+    font-size: 30px;
     color: hsl(14, 45%, 36%);
+
 }
