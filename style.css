@@ -60,8 +60,8 @@ header h1 {
 
 .preparation {
     background-color: hsl(330, 100%, 98%);
-    border-radius: 20px;
-    padding: 5px;
+    border-radius: 10px;
+    padding: 20px;
 }
 
 .preparation h4 {
