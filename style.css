@@ -92,3 +92,7 @@ header h1 {
 .ingredients {
     margin: 20px 0;
 }
+
+.ingredients h2 {
+    font-family: "Young Serif" sans-serif;
+}
