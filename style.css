@@ -80,4 +80,5 @@ header h1 {
     content: ".";
     font-weight: bold;
     width: 1.5rem;
+    margin-right: 5px;
 }
