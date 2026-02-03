@@ -122,6 +122,6 @@ header h1 {
 
 hr {
     width: 100%;
-    color: hsl(30, 54%, 90%);
+    background-color: hsl(30, 54%, 90%);
     border-radius: 20px;
 }
