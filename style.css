@@ -119,6 +119,7 @@ h2 {
     font-weight: bold;
     width: 1.5rem;
     margin-right: 10px;
+    color: hsl(14, 45%, 36%);
 }
 
 
@@ -148,7 +149,8 @@ h2 {
     display: inline-block;
     font-weight: bold;
     width: 1.5rem;
-    margin-right: 10px;    
+    margin-right: 10px;
+    color: hsl(14, 45%, 36%);    
 }
 
  .instruct-list li p {
