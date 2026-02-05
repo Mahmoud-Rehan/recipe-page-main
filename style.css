@@ -145,6 +145,10 @@ h2 {
 
 .instruct-list li::before {
     content: counter(steps) ".";
+    display: inline-block;
+    font-weight: bold;
+    width: 1.5rem;
+    margin-right: 10px;    
 }
 
  .instruct-list li p {
