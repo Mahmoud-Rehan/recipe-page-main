@@ -93,7 +93,8 @@ header h1 {
     margin: 20px 0;
 }
 
-.ingredients h2 {
+
+h2 {
     font-family: "Young Serif", sans-serif;
     font-weight: 300;
     font-size: 30px;
@@ -129,3 +130,4 @@ header h1 {
     border-radius: 20px;
     margin: 30px 0;
 }
+
