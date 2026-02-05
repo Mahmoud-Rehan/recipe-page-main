@@ -142,7 +142,9 @@ h2 {
 .instruct-list li {
     margin-bottom: 10px;
     counter-increment: steps;
-line-height: 25px;
+    line-height: 25px;
+    display: flex;
+    align-items: flex-start;
 }
 
 .instruct-list li::before {
@@ -150,6 +152,5 @@ line-height: 25px;
     display: inline-block;
     font-weight: bold;
     width: 1.5rem;
-    margin-right: 10px;
     color: hsl(14, 45%, 36%);    
 }
