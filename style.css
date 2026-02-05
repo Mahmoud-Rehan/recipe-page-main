@@ -139,5 +139,8 @@ h2 {
 
 .instruct-list li {
     margin-bottom: 10px;
-    line-height: 2px;
 }
+
+ .instruct-list li p {
+    line-height: 25px;
+ }
