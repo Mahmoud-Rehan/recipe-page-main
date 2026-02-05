@@ -121,7 +121,7 @@ header h1 {
 }
 
 
-hr {
+.line {
     border: none;
     height: 1px;
     width: 100%;
