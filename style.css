@@ -135,10 +135,16 @@ h2 {
 .instruct-list {
     list-style: none;   
     padding-left: 7px;
+    counter-reset: steps;
 }
 
 .instruct-list li {
     margin-bottom: 10px;
+    counter-increment: steps;
+}
+
+.instruct-list li::before {
+    content: counter(steps) ".";
 }
 
  .instruct-list li p {
