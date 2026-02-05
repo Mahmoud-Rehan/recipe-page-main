@@ -142,6 +142,7 @@ h2 {
 .instruct-list li {
     margin-bottom: 10px;
     counter-increment: steps;
+line-height: 25px;
 }
 
 .instruct-list li::before {
