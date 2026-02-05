@@ -145,6 +145,7 @@ h2 {
     line-height: 25px;
     display: flex;
     align-items: flex-start;
+    gap: 10px;
 }
 
 .instruct-list li::before {
