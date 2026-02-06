@@ -45,12 +45,13 @@ img {
     border-radius: 10px;
 }
 
-.intro {
-    font-size: 15px;
-}
 
 header {
     margin: 20px 0 30px;
+}
+
+header p {
+    font-size: 15px;
 }
 
 header h1 {
@@ -167,4 +168,9 @@ h2 {
 
 .nutrition {
     margin: 20px 0;
+}
+
+
+.nutrition {
+
 }
