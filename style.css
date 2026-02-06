@@ -186,3 +186,9 @@ h2 {
     font-weight: bold;
     color: hsl(14, 45%, 36%);
 }
+
+
+.nutrition-grid > div {
+    padding: 10px 0;
+    border-bottom: 1px solid hsl(30, 10%, 34%);
+}
