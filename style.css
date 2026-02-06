@@ -135,6 +135,7 @@ h2 {
 .instruct-list {
     list-style: none;
     counter-reset: steps;
+    padding-left: 7px;
 }
 
 .instruct-list li {
