@@ -207,13 +207,40 @@ h2 {
 
 @media (max-width: 768px) {
     .container {
-        margin: 0;
         width: 100%;
+        margin: 0;
         padding: 20px;
         border-radius: 0;
     }
 
     img {
         border-radius: 0;
+    }
+
+    header h1 {
+        font-size: 28px;
+        line-height: 1.2;
+    }
+
+    h2 {
+        font-size: 22px;
+    }
+
+    body {
+        font-size: 14px;
+    }
+
+    .nutrition-grid {
+        column-gap: 15px;
+    }
+
+    .nutrition-grid > div {
+        padding: 8px 0;
+    }
+
+    .prep-list li,
+    .ingred-list li,
+    .instruct-list li {
+        margin-bottom: 8px;
     }
 }
