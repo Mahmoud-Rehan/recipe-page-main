@@ -117,7 +117,7 @@ h2 {
     content: ".";
     display: inline-block;
     font-weight: bold;
-    width: 1.5rem;
+    /* width: 1.5rem; */
     margin-right: 10px;
     color: hsl(14, 45%, 36%);
 }
