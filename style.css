@@ -209,7 +209,7 @@ h2 {
     .container {
         width: 100%;
         margin: 0;
-        /* padding: 20px; */
+        padding: 0;
         border-radius: 0;
     }
 
