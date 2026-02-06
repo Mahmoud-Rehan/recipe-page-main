@@ -188,6 +188,11 @@ h2 {
 }
 
 
+.nutrition-grid .label {
+    padding-left: 20px;
+}
+
+
 .nutrition-grid > div {
     padding: 10px 0;
     border-bottom: 1px solid hsl(30, 18%, 87%);
