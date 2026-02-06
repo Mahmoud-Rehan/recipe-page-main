@@ -180,3 +180,9 @@ h2 {
     display: grid;
     grid-template-columns: 1fr 1fr;
 }
+
+
+.nutrition-grid .value {
+    font-weight: bold;
+    color: hsl(14, 45%, 36%);
+}
