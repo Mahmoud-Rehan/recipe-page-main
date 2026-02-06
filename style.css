@@ -143,7 +143,6 @@ h2 {
     counter-increment: steps;
     display: flex;
     align-items: flex-start;
-    gap: 10px;
 }
 
 .instruct-list li::before {
