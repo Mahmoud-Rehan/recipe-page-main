@@ -177,7 +177,6 @@ h2 {
 
 
 .nutrition .nutrition-grid {
-    padding-left: 7px;
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 4;
