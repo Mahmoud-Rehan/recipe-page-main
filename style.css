@@ -174,3 +174,10 @@ h2 {
 .nutrition p {
     margin-bottom: 20px;
 }
+
+
+.nutrition .nutrition-grid {
+    display: grid;
+    grid-template-columns: 2;
+    grid-template-rows: 2;
+}
