@@ -202,3 +202,14 @@ h2 {
 .nutrition-grid > div:nth-last-child(-n + 2) {
     border-bottom: none;
 }
+
+
+
+@media (max-width: 768px) {
+    .container {
+        margin: 0;
+        width: 100%;
+        padding: 20px;
+        border-radius: 0;
+    }
+}
