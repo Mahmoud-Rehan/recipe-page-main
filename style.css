@@ -148,6 +148,7 @@ h2 {
 .instruct-list li::before {
     content: counter(steps) ".";
     display: inline-block;
+    line-height: 1;
     font-weight: bold;
     width: 1.5rem;
     color: hsl(14, 45%, 36%);
